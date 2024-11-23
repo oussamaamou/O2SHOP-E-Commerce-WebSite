@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../assets/css/details.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.1/css/all.min.css"
+    />
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              danger: "#DB4444",
+            },
+          },
+        },
+      };
+    </script>
+    <title>Details</title>
+  </head>
+  <body>
+    <nav class="bg-orange-500 h-28">nav</nav>
+    <div class="container">
+      <div class="product flex">
+        <div class="product-image">
+          <img
+            src="../assets/images/LegendChromaM990-RGBGamingMouse_2.png"
+            alt="Gaming Mouse"
+          />
+        </div>
+        <div class="product-details">
+          <h2 class="product-title">
+            TMKB Falcon M1SE Ultralight Honeycomb Gaming Mouse, High-Precision
+            12800DPI Optical Sensor, 6 Programmable Buttons, Customizable RGB,
+            Drag-Free Paracord, Ergonomic, Wired - Matte White
+          </h2>
+          <div class="product-rating">
+            <div class="flex items-center space-x-1">
+              <!-- Full Star -->
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="currentColor"
+                class="w-6 h-6 text-yellow-400"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 .587l3.668 7.568L24 9.432l-6 5.852 1.417 8.717L12 19.134l-7.417 4.867L6 15.284 0 9.432l8.332-1.277L12 .587z"
+                />
+              </svg>
+              <!-- Repeat the above SVG for additional stars -->
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="currentColor"
+                class="w-6 h-6 text-yellow-400"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 .587l3.668 7.568L24 9.432l-6 5.852 1.417 8.717L12 19.134l-7.417 4.867L6 15.284 0 9.432l8.332-1.277L12 .587z"
+                />
+              </svg>
+              <!-- Half Star -->
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                fill="currentColor"
+                class="w-6 h-6 text-yellow-400"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 .587l3.668 7.568L24 9.432l-6 5.852 1.417 8.717L12 19.134V.587z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div class="product-about">
+            <h4 class="font-bold">About this item</h4>
+            <ul>
+              <li>
+                Ultralight Honeycomb Gaming Mouse: A medium size that most
+                people can easily hold, an ultra-light weight of only 75g, and
+                an ergonomic honeycomb design for comfortable grip and operation
+                in games and offices
+              </li>
+              <li>
+                High-Speed Precision Optical Sensor: The high precision optical
+                sensor, adjustable range of 200-12800 DPI and polling rate of
+                125-1000Hz provide falcon-like response and precise cursor
+                movement for gaming
+              </li>
+              <li>
+                6 Height-Customizable Programmable Buttons: Button function
+                remapping, including 4 configuration editing layers, rapid fire,
+                macro recording, and shortcut key actions
+              </li>
+              <li>
+                Rainbow Strip with Changeable RGB Colors: Ribbon RGB has 16.8
+                million adjustable colors, and the ribbon RGB can change
+                according to the rhythm of the game sound and music, adding to
+                the atmosphere of the game
+              </li>
+              <li>
+                Drag-Free Paracord & Buttery Mouse Feet: High-quality
+                lightweight compilation umbrella rope and smooth skates mouse
+                feet, bringing silky smooth game operation and achieving a
+                wireless-like feeling
+              </li>
+              <li>
+                Highly Customized Driver Software: With TMKB's powerful driver
+                software, you can remap the functions of mouse buttons, record
+                macros, configure editing layers, and customize the color of RGB
+                strips
+              </li>
+            </ul>
+          </div>
+        </div>
+        <div class="product-info border">
+          <h2 class="price"><sup>$</sup>15<sup>99</sup></h2>
+          <div class="shipping">
+            <p class="delivery">
+              No Import Charges & $32.53 Shipping to Morocco Details Delivery
+              <span>Wednesday</span>, <span>December 4</span>
+            </p>
+            <p class="location">
+              <i class="fa-solid fa-location-dot"></i> Deliver to
+              <span class="placeholder">Morocco</span>
+            </p>
+          </div>
+          <div class="quantity-ordered">
+            <h5>In Stock</h5>
+            <div class="w-48">
+              <label
+                for="quantity"
+                class="block text-sm font-medium text-gray-700 mb-2"
+                >Select Quantity:</label
+              >
+              <div class="relative">
+                <select
+                  id="quantity"
+                  class="block w-full px-3 py-2 border border-gray-300 bg-white rounded-md shadow-sm focus:outline-none focus:ring-red-500 focus:border-red-500 text-gray-700"
+                  style="font-size: 1rem"
+                ></select>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="../assets/js/details.js"></script>
+  </body>
+</html>

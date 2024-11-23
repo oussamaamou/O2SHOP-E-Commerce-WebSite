@@ -1,0 +1,186 @@
+{
+    "Products" : [
+        {
+            "id":0,
+            "prix":360,
+            "categorie":"Smartwatch",
+            "marque":"Sumsung",
+            "description":"Smartwatch - Intuitive, connected",
+            "image":"../assets/images/home-imgs/smartwatch-1.jpg"
+
+        },
+
+        {
+            "id":1,
+            "prix":700,
+            "categorie":"Phone",
+            "marque":"Apple",
+            "description":"iPhone 15 - USB-C, pro camera",
+            "image":"../assets/images/home-imgs/phone-1.jpg"
+
+        },
+
+        {
+            "id":2,
+            "prix":500,
+            "categorie":"Camera",
+            "marque":"Canon",
+            "description":"Canon Camera - High-quality, pro",
+            "image":"../assets/images/home-imgs/camera-1.jpg"
+
+        },
+
+        {
+            "id":3,
+            "prix":960,
+            "categorie":"Gaming",
+            "marque":"Xbox",
+            "description":"Xbox - Powerful, 4K gaming",
+            "image":"../assets/images/home-imgs/gmng-2.jpg"
+
+        },
+
+        {
+            "id":4,
+            "prix":1160,
+            "categorie":"Computers",
+            "marque":"Apple",
+            "description":"Mac - Powerful, efficient",
+            "image":"../assets/images/home-imgs/pc-2.jpg"
+
+        },
+
+        {
+            "id":5,
+            "prix":100,
+            "categorie":"Headphones",
+            "marque":"Beats",
+            "description":"Beats - Stylish, dynamic",
+            "image":"../assets/images/home-imgs/headphone-1.jpg"
+
+        },
+
+        {
+            "id":6,
+            "prix":660,
+            "categorie":"Gaming",
+            "marque":"Sony",
+            "description":"PS5 - Ultra-fast, powerful ",
+            "image":"../assets/images/home-imgs/gmng-1.jpg"
+
+        },
+
+        {
+            "id":7,
+            "prix":460,
+            "categorie":"Phone",
+            "marque":"Pixel",
+            "description":"Pixel Phone - Fast, AI-powered",
+            "image":"../assets/images/home-imgs/phone-2.jpg"
+
+        },
+
+        {
+            "id":8,
+            "prix":760,
+            "categorie":"Smartwatch",
+            "marque":"Apple",
+            "description":"Smartwatch - Intuitive, connected",
+            "image":"../assets/images/home-imgs/smartwatch-2.jpg"
+
+        },
+
+        {
+            "id":9,
+            "prix":1360,
+            "categorie":"Computers",
+            "marque":"Asus",
+            "description":"Asus - Fast, 4k Games",
+            "image":"../assets/images/home-imgs/pc-1.jpg"
+
+        },
+
+        {
+            "id":10,
+            "prix":360,
+            "categorie":"Headphones",
+            "marque":"JBL",
+            "description":"Headphone - Intuitive, connected",
+            "image":"../assets/images/home-imgs/headphon-2.jpg"
+
+        },
+
+        {
+            "id":11,
+            "prix":360,
+            "categorie":"Camera",
+            "marque":"Nikon",
+            "description":"Camera - Intuitive, Pro",
+            "image":"../assets/images/home-imgs/camera-2.jpg"
+
+        },
+
+        {
+            "id":12,
+            "prix":520,
+            "categorie":"Smartwatch",
+            "marque":"Sumsung",
+            "description":"Smartwatch - Intuitive, connected",
+            "image":"../assets/images/home-imgs/smartwatch-1.jpg"
+
+        },
+
+        {
+            "id":13,
+            "prix":260,
+            "categorie":"Headphones",
+            "marque":"JBL",
+            "description":"Headphone - Intuitive, connected",
+            "image":"../assets/images/home-imgs/headphon-2.jpg"
+
+        },
+
+        {
+            "id":14,
+            "prix":760,
+            "categorie":"Gaming",
+            "marque":"Sony",
+            "description":"PS5 - Ultra-fast, powerful ",
+            "image":"../assets/images/home-imgs/gmng-1.jpg"
+
+        },
+
+        {
+            "id":15,
+            "prix":1260,
+            "categorie":"Computers",
+            "marque":"Apple",
+            "description":"Mac - Powerful, pro",
+            "image":"../assets/images/home-imgs/pc-2.jpg"
+
+        },
+
+        {
+            "id":16,
+            "prix":170,
+            "categorie":"Headphones",
+            "marque":"Beats",
+            "description":"Beats - Pro, dynamic",
+            "image":"../assets/images/home-imgs/headphone-1.jpg"
+
+        },
+
+        {
+            "id":17,
+            "prix":860,
+            "categorie":"Gaming",
+            "marque":"Xbox",
+            "description":"Xbox - Powerful, fast",
+            "image":"../assets/images/home-imgs/gmng-2.jpg"
+
+        }
+
+
+        
+    ]
+}
